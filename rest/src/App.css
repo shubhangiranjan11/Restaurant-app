@@ -1,6 +1,7 @@
 body{
     margin:0;
     padding:0;
+    background-color: #6f002d;
   }
 .container{
     display: flex;
@@ -69,7 +70,26 @@ body{
     font-family: "Times New Roman", Times, serif;;
 }
 .next-container{
-    margin-top: 800px;
+    margin-top: 50%;
+}
+.image-sec{
+    margin-bottom: 8%;
+}
+
+.can-sec{
+    height: 800px;
+    margin-left: 320px;
+    margin-top: -100%;
+}
+.can-third{
+    height: 250px;
+    margin-left: 26%;
+    margin-bottom: 15%;
+}
+.can-fourth{
+    height: 250px;
+    margin-left: 6%;
+    margin-bottom: 15%;
 }
 .third-container{
     display: flex;
@@ -102,7 +122,18 @@ body{
     color:#4e8540;
 }
 
-/* .rev{
+.rev{
     font-style: italic;
     color: white;
+    margin-right: -270px;
+}
+.black2{
+    height: 25px;
+    margin-right: -39px;
+    margin-top: -13px;
+}
+/* .last{
+    color: white;
+    margin-top: 300px;
+    margin-left: -150px;
 } */
